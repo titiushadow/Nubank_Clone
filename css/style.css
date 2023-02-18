@@ -112,3 +112,9 @@ a:first-of-type {
 a{
     margin-top: 1.1rem;
 }
+
+@media(max-width: 1300px) {
+    form {
+        width: auto;
+    }
+}
