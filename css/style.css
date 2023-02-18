@@ -116,6 +116,6 @@ a{
 @media(max-width: 1300px) {
     form {
         width: auto;
-        height: auto;
+        min-height: 86vh;
     }
 }
